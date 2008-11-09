@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Django Docs (All)</os:ShortName>
+<os:Description>Search through django's documentation for all versions</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAAAAAAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACKn39EZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjOKn39EZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNJajmOooRyi2VEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNHaDa/ybn////9/v11jmhEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNFZzRIaTdEZjNFZzXBzLv////I0sNEZjNEZjNEZjNEZjNEZjNEZjNEZjOMoIHd49r8/fz////3+Pbd4tlrhV3////19vREZjNEZjNEZjNEZjNEZjNEZjOPooT////////k6eLW3dL+/v7///9Pbz////////9JajhEZjNEZjNEZjNEZjNEZjPd49r///+6xrNEZjNEZjP5+vj///9IaTf+/v3///9MbDtEZjNEZjNEZjNEZjNEZjPy9PH///+Fm3pEZjNEZjP5+vj///9HaDb9/v3///9MbDtEZjNEZjNEZjNEZjNEZjPg5d3///+ktJxEZjNEZjP5+vj///9HaDb9/v3///9MbDtEZjNEZjNEZjNEZjNEZjOarJH////7/Pu1wq+mtp79/fz///9HaDb9/f3///9LbDtEZjNEZjNEZjNEZjNEZjNGaDWfsJbs7+r///////////////9HaDbz9PL09vNLbDtEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNTckNWdEb///////9HaDZNbDxNbD1EZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNKazr///7+/v5HaDb9/v3///9MbDtEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNJajn+/v79/f1HaDb5+vn7+/tMbDtEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNGZzVGZzVEZjNEZjNEZjNEZjNEZjNEZjOKn39EZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjNEZjOKn38AAP//AAD//wAA//8AAP//AAD//wAAzF8AABk6AAD/PwAAf0AAAPhfAAD//wAA//8AAP//AADpvAAAf8AAAP8/</os:Image>
+<SearchForm>http://docs.djangoproject.com/en/dev/</SearchForm>
+<os:Url type="text/html" method="GET" template="http://docs.djangoproject.com/en/dev/search/?cx=009763561546736975936%3Ae88ek0eurf4&amp;cof=FORID%3A11&amp;ie=UTF-8&amp;hl=&amp;q={searchTerms}&amp;sa=Search&amp;as_q=more%3Aall_docs#1000">
+</os:Url>
+</SearchPlugin>
